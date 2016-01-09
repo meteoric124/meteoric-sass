@@ -1,0 +1,1489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="346e1c9f-0d53-47cf-add4-aef25581e199" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.agignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.eslintignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.jscs.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.jshintignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circle.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/component.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/CODENAMES" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/DISCOURSE_POST_URL" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/build.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/demos/demos.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/demos/processors/demos.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/demos/static-site/file-readers/yaml.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/demos/static-site/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/demos/static-site/spec/file-readers/_test-data/long-header.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/demos/static-site/spec/file-readers/_test-data/markdown-title.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/demos/static-site/spec/file-readers/_test-data/no-closing-header.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/demos/static-site/spec/file-readers/_test-data/no-header.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/demos/static-site/spec/file-readers/_test-data/normal-header.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/demos/static-site/spec/file-readers/yaml.spec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/demos/templates/app.template.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/demos/templates/asset.contents.template" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/demos/templates/index.template.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/demos/templates/pages-data.template.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/demos/templates/scenario.template.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/docs/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/docs/docs.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/docs/filters/capital.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/docs/generate-versions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/docs/ignore.words" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/docs/inline-tag-defs/link.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/docs/processors/index-page.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/docs/processors/jekyll.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/docs/processors/latest-version.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/docs/processors/version-data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/docs/tag-defs/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/docs/templates/api/api.template.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/docs/templates/api/componentGroup.template.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/docs/templates/api/controller.template.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/docs/templates/api/directive.template.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/docs/templates/api/filter.template.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/docs/templates/api/function.template.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/docs/templates/api/object.template.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/docs/templates/api/page.template.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/docs/templates/api/provider.template.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/docs/templates/api/service.template.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/docs/templates/api/type.template.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/docs/templates/api/utility.template.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/docs/templates/api_index.template.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/docs/templates/api_menu.template.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/docs/templates/api_menu_version.template.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/docs/templates/api_version_select.template.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/docs/templates/lib/events.template.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/docs/templates/lib/macros.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/docs/templates/lib/methods.template.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/docs/templates/lib/properties.template.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/docs/templates/lib/returns.template.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/docs/templates/lib/this.template.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/docs/templates/lib/yaml.template.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/gulp-tasks/docs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/gulp-tasks/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/karma-sauce.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/karma.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/lib/fonts/ionicons.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/lib/fonts/ionicons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/lib/fonts/ionicons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/lib/fonts/ionicons.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/lib/ionic-snapshot.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/lib/js/angular-ui/angular-ui-router.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/lib/js/angular-ui/angular-ui-router.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/lib/js/angular/angular-animate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/lib/js/angular/angular-animate.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/lib/js/angular/angular-animate.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/lib/js/angular/angular-aria.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/lib/js/angular/angular-aria.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/lib/js/angular/angular-aria.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/lib/js/angular/angular-messages.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/lib/js/angular/angular-messages.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/lib/js/angular/angular-messages.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/lib/js/angular/angular-mocks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/lib/js/angular/angular-resource.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/lib/js/angular/angular-resource.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/lib/js/angular/angular-resource.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/lib/js/angular/angular-sanitize.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/lib/js/angular/angular-sanitize.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/lib/js/angular/angular-sanitize.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/lib/js/angular/angular-scenario.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/lib/js/angular/angular.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/lib/js/angular/angular.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/lib/js/angular/angular.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/lib/js/angular/errors.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/lib/js/angular/version.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/lib/js/angular/version.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/lib/testutil.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/protractor-sauce.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/protractor.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/version.template.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/checkbox/simple/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/checkbox/simple/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/checkbox/simple/test.scenario.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/collectionRepeat/contacts/contacts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/collectionRepeat/contacts/contacts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/collectionRepeat/contacts/test.scenario.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/footer/simple/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/footer/simple/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/footer/simple/test.scenario.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/header/simple/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/header/simple/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/header/simple/test.scenario.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/infiniteScroll/forever/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/infiniteScroll/forever/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/infiniteScroll/forever/test.scenario.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/list/animated/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/list/animated/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/list/animated/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/list/animated/test.scenario.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/list/reorderDelete/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/list/reorderDelete/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/list/reorderDelete/test.scenario.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/radio/chooseOne/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/radio/chooseOne/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/radio/chooseOne/test.scenario.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/refresher/refreshList/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/refresher/refreshList/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/refresher/refreshList/test.scenario.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/sideMenus/navWithMenu/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/sideMenus/navWithMenu/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/sideMenus/navWithMenu/test.scenario.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/sideMenus/simple/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/sideMenus/simple/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/sideMenus/simple/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/sideMenus/simple/test.scenario.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/slideBox/appIntro/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/slideBox/appIntro/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/slideBox/appIntro/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/slideBox/appIntro/test.scenario.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/tabs/tabsAndNav/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/tabs/tabsAndNav/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/tabs/tabsAndNav/test.scenario.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/textInput/floatingLabel/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/textInput/floatingLabel/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/textInput/floatingLabel/test.scenario.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/toggle/simple/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/toggle/simple/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/directive/toggle/simple/test.scenario.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/actionsheet/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/actionsheet/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/actionsheet/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/app-intro-walkthrough/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/app-intro-walkthrough/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/app-intro-walkthrough/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/checkbox/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/checkbox/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/checkbox/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/collection-repeat/contacts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/collection-repeat/contacts.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/collection-repeat/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/collection-repeat/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/collection-repeat/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/flickr-search-example/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/flickr-search-example/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/flickr-search-example/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/frosted-glass-effect/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/frosted-glass-effect/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/frosted-glass-effect/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/google-maps/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/google-maps/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/google-maps/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/lists/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/lists/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/lists/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/loading-bar/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/loading-bar/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/loading-bar/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/modal/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/modal/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/modal/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/popup/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/popup/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/popup/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/pull-to-refresh/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/pull-to-refresh/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/pull-to-refresh/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/radio-buttons/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/radio-buttons/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/radio-buttons/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/shrinking-header/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/shrinking-header/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/shrinking-header/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/side-menu-and-navigation/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/side-menu-and-navigation/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/side-menu-and-navigation/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/sign-in-then-tabs/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/sign-in-then-tabs/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/sign-in-then-tabs/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/starter-template/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/starter-template/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/starter-template/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/swipeable-cards/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/swipeable-cards/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/swipeable-cards/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/tabs-and-navigation/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/tabs-and-navigation/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/tabs-and-navigation/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/thumbnail-list/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/thumbnail-list/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/thumbnail-list/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/toggle/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/toggle/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/old/toggle/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/service/actionSheet/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/service/actionSheet/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/service/actionSheet/test.scenario.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/service/loading/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/service/loading/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/service/loading/test.scenario.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/service/popover/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/service/popover/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/service/popover/test.scenario.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/service/popup/popping/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/service/popup/popping/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/service/popup/popping/test.scenario.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/controller/headerBarController.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/controller/infiniteScrollController.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/controller/listController.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/controller/navBarController.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/controller/navViewController.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/controller/refresherController.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/controller/scrollController.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/controller/sideMenuController.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/controller/spinnerController.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/controller/tabController.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/controller/tabsController.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/controller/viewController.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/actionSheet.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/checkbox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/collectionRepeat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/content.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/exposeAsideWhen.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/gesture.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/headerFooterBar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/infiniteScroll.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/input.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/item.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/itemDeleteButton.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/itemFloatingLabel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/itemOptionButton.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/itemReorderButton.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/keyboardAttach.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/list.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/menuClose.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/menuToggle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/modal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/modalView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/navBackButton.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/navBar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/navButtons.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/navDirection.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/navTitle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/navTransition.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/navView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/ngClick.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/pane.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/popover.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/popoverView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/radio.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/refresher.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/scroll.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/sideMenu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/sideMenuContent.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/sideMenus.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/slideBox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/slides.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/spinner.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/tab.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/tabNav.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/tabs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/title.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/toggle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/directive/view.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/service/actionSheet.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/service/angularOverrides.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/service/backdrop.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/service/bind.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/service/body.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/service/clickBlock.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/service/decorators/angular-ios9-uiwebview.patch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/service/decorators/compile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/service/decorators/location.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/service/gesture.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/service/history.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/service/ionicConfig.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/service/loading.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/service/modal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/service/navBarDelegate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/service/navViewDelegate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/service/platform.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/service/popover.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/service/popup.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/service/position.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/service/scrollDelegate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/service/sideMenuDelegate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/service/slideBoxDelegate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/service/tabsDelegate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/service/templateCache.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/service/templateLoader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/service/viewService.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/angular/service/viewSwitcher.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/ionic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/utils/activator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/utils/delegateService.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/utils/dom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/utils/events.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/utils/gestures.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/utils/keyboard.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/utils/platform.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/utils/poly.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/utils/tap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/utils/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/utils/viewport.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/views/listView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/views/modalView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/views/scrollView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/views/scrollViewNative.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/views/sideMenuView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/views/sliderView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/views/slidesView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/views/toggleView.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/views/view.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/release/css/ionic.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/release/css/ionic.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/release/js/angular-ui/angular-ui-router.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/release/js/angular-ui/angular-ui-router.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/release/js/angular/angular-animate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/release/js/angular/angular-animate.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/release/js/angular/angular-resource.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/release/js/angular/angular-resource.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/release/js/angular/angular-sanitize.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/release/js/angular/angular-sanitize.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/release/js/angular/angular.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/release/js/angular/angular.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/release/js/ionic-angular.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/release/js/ionic-angular.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/release/js/ionic.bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/release/js/ionic.bundle.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/release/js/ionic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/release/js/ionic.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/release/version.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/app-base/publish.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/bower/publish.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/bump/nightly.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/bump/release.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/cdn/publish.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/circle/deploy.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/circle/test.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/clone/clone.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/demo/publish.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/pre-push-validate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/release/publish.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/site/config.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/site/docs.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/update-angular.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/utils.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/bars-clear.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/button-bar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/buttons-borderless.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/buttons-button-block-clear.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/buttons-button-block.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/buttons-button-outline.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/buttons-clear.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/buttons-default.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/buttons-full.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/buttons-large.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/buttons-link-block-clear.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/buttons-link-block.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/buttons-link-icon.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/buttons-link-outline.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/buttons-misc.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/buttons-outline.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/buttons-pseudo-icon-compare.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/buttons-small.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/buttons.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/cards-header-footer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/cards-item-avatar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/cards-item-body.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/cards-item-icon.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/cards-item-thumbnail.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/cards-text.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/colors.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/footers.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/form-simple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/grid.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/headers-android.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/headers-ios.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/headers.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/input-checkbox.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/input-radio.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/input-range.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/input-select.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/input-text.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/input-textarea.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/input-toggle.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/lists-avatar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/lists-buttons.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/lists-colors-complex.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/lists-colors.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/lists-icons.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/lists-text.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/lists-thumbnails.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/progress.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/scroll.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/search-ios.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/search.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/split-pane.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/status-bar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/subfooters.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/subheaders.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/tabs-and-cards.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/tabs-android.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/tabs-default.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/tabs-icons-bottom.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/tabs-icons-left.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/tabs-icons-right.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/tabs-ios.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/tabs-no-icons.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/tabs-only-icons.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/tabs-with-footer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/test.scenario.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/css/type.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/actionsheet.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/anchorScroll.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/animation.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/animation_transition.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/app_icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/autolayout/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/autolayout/ng-auto.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/back-button.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/cards.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/carousel.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/cat1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/cat2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/cat3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/cat4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/clickTests.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/clickTests2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/collection-repeat/basic-grid.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/collection-repeat/basic-list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/collection-repeat/contacts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/collection-repeat/horizontal-image-grid.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/collection-repeat/side-menu-exposed.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/content_defer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/content_h.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/content_simple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/contenteditable.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/dom-trace.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/drag.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/dynamics.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/embeddedObject.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/exoplanet.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/gesture.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/has-anything-dynamic.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/header.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/history.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/infinite-scroll.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/input-radio-basic.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/input-radio-patch.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/input-radio-zarko.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/input-radio.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/input-range.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/input.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/jan/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/jan/contact.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/jan/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/jan/info.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/jan/jan.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/jan/menu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/jan/patch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/keyboard.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/list.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/loading.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/map.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/modal.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/modal2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/nav.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/navParams.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/nestedScroll.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/openLayers.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/overflow.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/platforms.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/poly.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/popover.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/popup.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/popupRace.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/pull-to-refresh.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/rememberScroll.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/scroll-set-top.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/scroll.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/scroll2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/scroll_content.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/scroll_xy.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/sideMenu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/sideMenu2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/sideMenuExpose.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/slideBox.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/slideBoxDynamic.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/slideBoxRepeat.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/slideBoxSimple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/slides.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/slidesProducts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/spinners.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/status-bar-toggles.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/subControllers.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/tabs-active.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/tabs-cache.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/tabs-repeat.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/tabs-templates/about.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/tabs-templates/facts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/tabs-templates/facts2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/tabs-templates/home.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/tabs-templates/nav-stack.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/tabs-templates/tabs.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/tabs.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/tapInputs.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/toggle.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/tree_bark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/video.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/html/viewState.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/controller/listController.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/controller/navBarController.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/controller/navViewController.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/controller/refreshController.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/controller/scrollController.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/controller/sideMenuController.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/controller/viewController.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/directive/backdrop.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/directive/checkbox.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/directive/collectionRepeat.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/directive/content.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/directive/gesture.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/directive/headerFooterBar.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/directive/infiniteScroll.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/directive/item.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/directive/keyboardAttach.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/directive/list.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/directive/navBackButton.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/directive/navBar.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/directive/navButtons.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/directive/navView.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/directive/radio.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/directive/refresher.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/directive/scroll.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/directive/sideMenu.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/directive/slideBox.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/directive/spinner.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/directive/tabs.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/directive/toggle.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/directive/view.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/service/actionSheet.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/service/angularOverrides.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/service/bind.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/service/body.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/service/decorators/location.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/service/delegateService.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/service/gesture.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/service/history.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/service/ionicConfig.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/service/loading.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/service/modal.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/service/platform.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/service/popover.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/service/popup.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/service/templateCache.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/service/templateLoader.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/angular/service/viewSwitcher.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/events.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/utils/activator.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/utils/dom.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/utils/keyboard.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/utils/tap.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/utils/viewport.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/views/listView.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/views/modalView.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/views/scrollView.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/views/scrollViewNative.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/views/sideMenu.unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/views/toggleView.unit.js" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/release/fonts/ionicons.eot" afterPath="$PROJECT_DIR$/fonts/ionicons.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/release/fonts/ionicons.svg" afterPath="$PROJECT_DIR$/fonts/ionicons.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/release/fonts/ionicons.ttf" afterPath="$PROJECT_DIR$/fonts/ionicons.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/release/fonts/ionicons.woff" afterPath="$PROJECT_DIR$/fonts/ionicons.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.js" afterPath="$PROJECT_DIR$/package.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/ionicons/_ionicons-variables.scss" afterPath="$PROJECT_DIR$/scss/ionicons/_ionicons-variables.scss" />
+    </list>
+    <ignored path="ionic-sass.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ionic-sass" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="_ionicons-font.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/ionicons/_ionicons-font.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.6363636">
+              <caret line="5" column="26" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ionicons.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/ionicons/ionicons.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_action-sheet.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/_action-sheet.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_ionicons-variables.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/ionicons/_ionicons-variables.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.9818182">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.18728323">
+              <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.6315789">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ionicons.eot" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fonts/ionicons.eot">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ionicons.svg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fonts/ionicons.svg">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ionicons.woff" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fonts/ionicons.woff">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_ionicons-icons.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/ionicons/_ionicons-icons.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/scss/ionic.scss" />
+        <option value="$PROJECT_DIR$/scss/ionicons/_ionicons-variables.scss" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/package.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="3840" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ionic-sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ionic-sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ionic-sass" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/release/fonts" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JRubyCucumberRunConfigurationType" factoryName="JRuby Cucumber">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-Dforce.jruby.jit=true -Djruby.debug.fullTrace=true" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ionic-sass" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="executeSpecs" factoryName="Gauge Execution">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-options />
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="346e1c9f-0d53-47cf-add4-aef25581e199" name="Default" comment="" />
+      <created>1452334450593</created>
+      <option name="number" value="Default" />
+      <updated>1452334450593</updated>
+      <workItem from="1452334451737" duration="2132000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2132000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="3840" y="0" width="1920" height="1080" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/scss/ionic.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.6363636">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.6">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fonts/ionicons.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fonts/ionicons.woff">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fonts/ionicons.eot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/_action-sheet.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/ionicons/_ionicons-font.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.6363636">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/ionicons/ionicons.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/ionicons/_ionicons-icons.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/ionicons/_ionicons-variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.9818182">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.6315789">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18728323">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
