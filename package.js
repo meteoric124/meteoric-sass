@@ -1,6 +1,6 @@
 // package metadata file for Meteor.js
 var packageName = 'jandres:ionic-sass'; // https://atmospherejs.com/driftyco/ionic
-var where = 'client'; // where to install: 'client' or 'server'. For both, pass nothing.
+var where = ['client', 'server']; // where to install: 'client' or 'server'. For both, pass nothing.
 var version = '1.2.4';
 
 Package.describe({
@@ -13,7 +13,7 @@ Package.describe({
 Package.onUse(function(api) {
   api.versionsFrom(['METEOR@0.9.0', 'METEOR@1.0']);
 
-  api.use(['fourseven:scss@3.3.3'], 'client');
+  api.use(['fourseven:scss@3.3.3'], where);
   api.imply(['fourseven:scss']);
 
   // In case the Meteor project has the `fastclick` package,
@@ -25,7 +25,7 @@ Package.onUse(function(api) {
     "fonts/ionicons.svg",
     "fonts/ionicons.ttf",
     "fonts/ionicons.woff"
-  ], where);
+  ], 'client');
 
   api.addFiles([
     "scss/_variables.scss",
@@ -68,7 +68,7 @@ Package.onUse(function(api) {
     "scss/ionicons/_ionicons-icons.scss",
     "scss/ionicons/_ionicons-variables.scss",
 
-    "scss/ionic.scss",
-    "scss/ionicons/ionicons.scss"
-  ], where);
+    "scss/ionicons/ionicons.scss",
+    "scss/ionic.scss"
+  ], where, {isImport:true});
 });
