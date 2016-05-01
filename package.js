@@ -1,14 +1,14 @@
 Package.describe({
     name: 'meteoric124:meteoric-sass',
     summary: "Ionic's CSS Framework in SASS and bundled for Meteor.",
-    version: '1.2.6',
+    version: '1.2.7',
     git: 'https://github.com/meteoric124/meteoric-sass.git'
 });
 
 Package.onUse(function(api) {
     api.versionsFrom('1.3.2.4');
-    api.use("fourseven:scss@3.4.3", ["client"]);
-    api.imply("fourseven:scss", ["client"]);
+    api.use("fourseven:scss@3.3.3_2");
+    api.imply("fourseven:scss");
 
     api.addAssets([
         'fonts/ionicons.eot',
@@ -61,5 +61,5 @@ Package.onUse(function(api) {
         'scss/ionicons/_ionicons-icons.scss',
         'scss/ionicons/_ionicons-variables.scss',
         'scss/ionicons/ionicons.scss'
-    ], 'client', {isImport:true});
+    ], 'client', { isImport: true });
 });
