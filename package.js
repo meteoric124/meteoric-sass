@@ -1,13 +1,13 @@
 Package.describe({
-    name: 'jandres:meteoric-sass',
+    name: 'meteoric124:meteoric-sass',
     summary: "Ionic's CSS Framework in SASS and bundled for Meteor.",
-    version: '1.2.5',
-    git: 'https://github.com/JoeyAndres/meteoric-sass.git'
+    version: '1.2.6',
+    git: 'https://github.com/meteoric124/meteoric-sass.git'
 });
 
 Package.onUse(function(api) {
-    api.versionsFrom('1.2');
-    api.use("fourseven:scss@3.4.1", ["client"]);
+    api.versionsFrom('1.3.2.4');
+    api.use("fourseven:scss@3.4.3", ["client"]);
     api.imply("fourseven:scss", ["client"]);
 
     api.addAssets([
